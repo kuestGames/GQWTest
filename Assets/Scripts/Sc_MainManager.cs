@@ -10,6 +10,7 @@ using SimpleJSON;
 using UnityEngine.Networking;
 using System.Runtime.Serialization.Formatters.Binary;
 
+
 namespace GQW {
     public class Sc_MainManager : MonoBehaviour {
         public static Sc_MainManager manager;
