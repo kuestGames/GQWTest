@@ -8,3 +8,6 @@ Defense your central tower by destroying the upcoming enemies. To attack them po
 
 Builds:
 The project works on both Windows and Android. For building just change the building target for Windows or Android and then build.
+
+Saved data:
+The game stores the highscore of the player locally and online. At first launch, the game asks for a username, which will work as the "login" for the player for simplified testing purposes. You can use the same username on different devices.
