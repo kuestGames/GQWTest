@@ -1,5 +1,6 @@
 //Octavio Lopez 2021/09
 //This class serves as the main manager of the game, and persist across the scenes (when there are more than one)
+//The loading and saving (local and cloud) are handled by this class
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

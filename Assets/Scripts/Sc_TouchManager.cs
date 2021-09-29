@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//This class handles the touch and mouse controls for the beam attack
+using UnityEngine;
 using System.Collections;
 using UnityEngine.EventSystems;
 
@@ -21,11 +22,6 @@ public class Sc_TouchManager : MonoBehaviour,IPointerDownHandler, IDragHandler, 
 
 	public AudioSource bounceSound;
     // Use this for initialization
-    void Start () {
-		
-		//objectToMoveAnim = objectToMove.transform.Find("PlayerSpriteHolder").GetComponent<Animator> ();
-
-	}
 	
 	// Update is called once per frame
 	void Update () {

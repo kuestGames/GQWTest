@@ -1,3 +1,4 @@
+//Basic sript to play specific SFX
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

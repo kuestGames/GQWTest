@@ -1,3 +1,5 @@
+//Author Octavio Lopes
+//This class handles the core of the gameplay. Some parts of the gameplay were commented because some features weren't going to be ready for submission day
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
